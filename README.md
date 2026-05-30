@@ -75,3 +75,27 @@ npx json-server --watch db.json --port 3001
 `http://YOUR_LOCAL_IP:3001`
 
 Use your machine IP (not localhost) when testing on a physical phone.
+
+
+
+3. Data to use in testing
+
+Email: Rosalyn59@hotmail.com
+Password: GjFIrSgyliG8tW5
+
+Email: Maci94@hotmail.com
+Password: R0ChVUODGqjwaAF
+
+Email: Jessy17@hotmail.com
+Password: Z8dUJaJvPoy4Ahm
+
+Email: Winona88@gmail.com
+Password: K1WhMnOMjFPMk7J
+I also added fake expenses, so after login you should see test expense data like:
+
+PENCILS - 1234 - Education
+tuition fees - 500 - Education
+Taxi fare - 120 - Transportation
+Groceries - 780 - Food
+Rent - 4500 - Housing
+Movie night - 160 - Entertainment
